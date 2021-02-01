@@ -1,4 +1,4 @@
-name: d8-ddev
+name: d8
 type: drupal8
 docroot: web
 php_version: "7.3"
